@@ -27,8 +27,8 @@ Please cite with the following bibtex if you find it useful.
 }
 ```
 
-## Acknowledgement
+<!-- ## Acknowledgement
 
 Part of the code uses components from [Deepmind Graph Nets library](https://github.com/deepmind/graph_nets). 
-We thank authors for releasing their code.
+We thank authors for releasing their code. -->
 
